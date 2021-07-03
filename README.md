@@ -9,7 +9,28 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Enthusiast**💻 passionate about learning and working with new tech. I like technology, videogames, animals, nature, sports and One Piece👒. <br/><br/>
 
 
+## 🗂️ Highlighted Projects
 
+<table>
+    <thead>
+        <tr>
+          <th>💻 Language </th>
+          <th>🔬 Principal Field </th>
+          <th>🚀 Projects </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2> <a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a> </td>
+            <td align=center> Hotel Booking with Express.js and MongoDB </td>
+            <td> <a href=https://github.com/Arnau-Mas/Hotel-Booking-Express.js target="_blank"> <img alt=Hotel-Booking-Express.js src=https://img.shields.io/static/v1?label=Hotel-Booking-Express.js&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+        </tr>
+        <tr>
+            <td align=center> Photo Library with Express.js </td>
+            <td> <a href=https://github.com/Arnau-Mas/Photo-Library-Express.js target="_blank"> <img alt=Photo-Library-Express.js src=https://img.shields.io/static/v1?label=Photo-Library-Express.js&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+        </tr>
+    </tbody>
+</table>
 
 ## 🛠️ My favorite tools
 
