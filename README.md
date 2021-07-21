@@ -32,7 +32,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </tbody>
 </table>
 
-## 🛠️ My favorite tools
+## 🛠️ Tools
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"     width="40" height="40"/ target="_blank" title="HTML5"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/ title="CSS3"></a>&nbsp;
