@@ -21,8 +21,12 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </thead>
     <tbody>
         <tr>
-            <td rowspan=2> <a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a> </td>
-            <td align=center> Hotel Booking with Express.js and MongoDB </td>
+            <td rowspan=3><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a></td>
+             <td align=center>🔗<a href=http://avisame-app.herokuapp.com/ target="_blank"> Note-taking with Express.js & MongoDB</a></td>
+             <td> <a href=https://github.com/FOAP-Netmind-2021/avisa-me target="_blank"> <img alt=avisa-me src=https://img.shields.io/static/v1?label=avisa-me&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+        </tr>
+        <tr>
+         <td align=center> Hotel Booking with Express.js and MongoDB </td>
             <td> <a href=https://github.com/Arnau-Mas/Hotel-Booking-Express.js target="_blank"> <img alt=Hotel-Booking-Express.js src=https://img.shields.io/static/v1?label=Hotel-Booking-Express.js&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
         <tr>
