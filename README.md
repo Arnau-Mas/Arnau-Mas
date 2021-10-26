@@ -5,6 +5,7 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github)](https://github.com/Arnau-Mas/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaum)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:arnau.mava@gmail.com)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/arnau_mas)](https://www.hackerrank.com/arnau_mas)
  
 I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Enthusiast**💻 passionate about learning and working with new tech. I like technology, videogames, animals, nature, sports and One Piece👒. <br/><br/>
 
