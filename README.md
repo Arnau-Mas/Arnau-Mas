@@ -22,6 +22,11 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </thead>
     <tbody>
         <tr>
+             <td rowspan=1 align="center"><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
+            <td align=center>🔗<a href=https://nervous-lovelace-1a0fd2.netlify.app/index.html target="_blank">Front End Project (no dependencies)</a></td>
+             <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="front end project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+        </tr>
+        <tr>
             <td rowspan=3><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a></td>
              <td align=center>🔗<a href=http://avisame-app.herokuapp.com/ target="_blank"> Note-taking with Express.js & MongoDB</a></td>
              <td> <a href=https://github.com/FOAP-Netmind-2021/avisa-me target="_blank"> <img alt=avisa-me src=https://img.shields.io/static/v1?label=avisa-me&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
@@ -30,10 +35,10 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
          <td align=center> Hotel Booking with Express.js and MongoDB </td>
             <td> <a href=https://github.com/Arnau-Mas/Hotel-Booking-Express.js target="_blank"> <img alt=Hotel-Booking-Express.js src=https://img.shields.io/static/v1?label=Hotel-Booking-Express.js&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
-        <tr>
+<!--         <tr>
             <td align=center> Photo Library with Express.js </td>
             <td> <a href=https://github.com/Arnau-Mas/Photo-Library-Express.js target="_blank"> <img alt=Photo-Library-Express.js src=https://img.shields.io/static/v1?label=Photo-Library-Express.js&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
 
@@ -58,4 +63,4 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnau-Mas&layout=compact)](https://github.com/Arnau-Mas/github-readme-stats)
 
 
-<!--  -->
+<!-- badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
