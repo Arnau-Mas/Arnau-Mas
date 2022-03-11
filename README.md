@@ -22,7 +22,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </thead>
     <tbody>
         <tr>
-             <td rowspan=1 align="center"><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
+             <td rowspan=1 align="center"><a href=https://developer.mozilla.org/es/docs/Web/CSS target="_blank"> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
             <td align=center>🔗<a href=https://nervous-lovelace-1a0fd2.netlify.app/index.html target="_blank">Front End Project (no dependencies)</a></td>
              <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="front end project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
