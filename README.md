@@ -2,7 +2,7 @@
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
 </h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github)](https://github.com/Arnau-Mas/) 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=zend)](https://arnau-mas.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaum)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:arnau.mava@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/arnau_mas)](https://www.hackerrank.com/arnau_mas)
@@ -22,7 +22,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </thead>
     <tbody>
         <tr>
-             <td rowspan=1 align="center"><a href=https://developer.mozilla.org/es/docs/Web/CSS target="_blank"> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
+             <td rowspan=1 align="center"><a href=https://developer.mozilla.org/es/docs/Web/CSS target=_blank> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
             <td align=center>🔗<a href=https://nervous-lovelace-1a0fd2.netlify.app/index.html target="_blank">Front End Project (no dependencies)</a></td>
              <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="front end project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
