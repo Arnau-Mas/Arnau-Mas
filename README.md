@@ -63,7 +63,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
 
 ## 📊 Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnau-Mas&layout=compact)](https://github.com/Arnau-Mas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnau-Mas&layout=compact&langs_count=6)](https://github.com/Arnau-Mas/github-readme-stats)
 
 
 <!-- badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
