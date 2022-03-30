@@ -24,7 +24,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
         <tr>
             <td rowspan=1 align=center><a href=https://vuejs.org/guide/introduction.html target="_blank"> <img alt="Vuejs" title="Vuejs" src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D> </a><br><a href=https://tailwindcss.com/ target="_blank"> <img alt="TailwindCSS" title="TailwindCSS" src=https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white> </a>
             </td>
-             <td align=center>🔗<a href=https://boisterous-zabaione-16e9b0.netlify.app/ target="_blank"> to-do app (Vue router, Pinia, Supabase)</a></td>
+             <td align=center>🔗<a href=https://boisterous-zabaione-16e9b0.netlify.app/ target="_blank"> to-do app (Router, Pinia, Supabase)</a></td>
              <td> <a href=https://github.com/Arnau-Mas/finalp-vue-ironhack target="_blank"> <img alt="finalp-vue-ironhack" src=https://img.shields.io/static/v1?label=finalp-vue-ironhack&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
         <tr>
