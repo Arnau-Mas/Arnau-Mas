@@ -16,19 +16,25 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     <thead>
         <tr>
           <th>💻 Language </th>
-          <th>🔬 Principal Field </th>
+          <th>🔬 Links </th>
           <th>🚀 Projects </th>
       </tr>
     </thead>
     <tbody>
         <tr>
+            <td rowspan=1><a href=https://vuejs.org/guide/introduction.html target="_blank"> <img alt="Vuejs" title="Vuejs" src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D> </a><br><a href=https://tailwindcss.com/ target="_blank"> <img alt="TailwindCSS" title="TailwindCSS" src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white> </a>
+            </td>
+             <td align=center>🔗<a href=https://boisterous-zabaione-16e9b0.netlify.app/ target="_blank"> to-do app (Vue router, Pinia, Supabase)</a></td>
+             <td> <a href=https://github.com/Arnau-Mas/finalp-vue-ironhack target="_blank"> <img alt="finalp-vue-ironhack" src=https://img.shields.io/static/v1?label=finalp-vue-ironhack&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+        </tr>
+        <tr>
              <td rowspan=1 align="center"><a href=https://developer.mozilla.org/es/docs/Web/CSS target=_blank> <img alt="CSS" title="CSS" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white> </a></td>
-            <td align=center>🔗<a href=https://nervous-lovelace-1a0fd2.netlify.app/index.html target="_blank">Front End Project (no dependencies)</a></td>
-             <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="front end project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
+            <td align=center>🔗<a href=https://nervous-lovelace-1a0fd2.netlify.app/index.html target="_blank">Front End Project (No dependencies)</a></td>
+             <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="Front-End-Project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
         <tr>
             <td rowspan=3><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a></td>
-             <td align=center>🔗<a href=http://avisame-app.herokuapp.com/ target="_blank"> Note-taking with Express.js & MongoDB</a></td>
+             <td align=center>🔗<a href=http://avisame-app.herokuapp.com/ target="_blank"> Note-taking (Express.js, MongoDB)</a></td>
              <td> <a href=https://github.com/FOAP-Netmind-2021/avisa-me target="_blank"> <img alt=avisa-me src=https://img.shields.io/static/v1?label=avisa-me&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
         <tr>
@@ -47,7 +53,8 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"     width="40" height="40"/ target="_blank" title="HTML5"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/ title="CSS3"></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/  title="JavaScript"> </a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="40" height="40"/ title="Vue.js"> </a>&nbsp;
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="40" height="40"/ title="Vue.js"></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Adobe Premiere" height="35"></a>&nbsp;
   <a href="https://nodejs.org/en/about/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/ title="Node.js"> </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs" target="_blank"><img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express.js"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/  title="mongoDB"></a>
