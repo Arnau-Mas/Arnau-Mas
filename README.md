@@ -22,7 +22,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1><a href=https://vuejs.org/guide/introduction.html target="_blank"> <img alt="Vuejs" title="Vuejs" src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D> </a><br><a href=https://tailwindcss.com/ target="_blank"> <img alt="TailwindCSS" title="TailwindCSS" src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white> </a>
+            <td rowspan=1 align=center><a href=https://vuejs.org/guide/introduction.html target="_blank"> <img alt="Vuejs" title="Vuejs" src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D> </a><br><a href=https://tailwindcss.com/ target="_blank"> <img alt="TailwindCSS" title="TailwindCSS" src=https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white> </a>
             </td>
              <td align=center>🔗<a href=https://boisterous-zabaione-16e9b0.netlify.app/ target="_blank"> to-do app (Vue router, Pinia, Supabase)</a></td>
              <td> <a href=https://github.com/Arnau-Mas/finalp-vue-ironhack target="_blank"> <img alt="finalp-vue-ironhack" src=https://img.shields.io/static/v1?label=finalp-vue-ironhack&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
@@ -33,7 +33,7 @@ I'm a **Full Stack Web** student🎓and I love programming!😃 I'm a **Tech Ent
              <td> <a href=https://github.com/Arnau-Mas/Front-End-Project target="_blank"> <img alt="Front-End-Project" src=https://img.shields.io/static/v1?label=Front-End-Project&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
         <tr>
-            <td rowspan=3><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a></td>
+            <td rowspan=3 align=center><a href=https://nodejs.org/en/about/ target="_blank"> <img alt="Node.js" title="Node.js" src=https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white> </a></td>
              <td align=center>🔗<a href=http://avisame-app.herokuapp.com/ target="_blank"> Note-taking (Express.js, MongoDB)</a></td>
              <td> <a href=https://github.com/FOAP-Netmind-2021/avisa-me target="_blank"> <img alt=avisa-me src=https://img.shields.io/static/v1?label=avisa-me&message=%20&color=525252&logo=github&logoColor=white&labelColor=525252> </a> </td>
         </tr>
