@@ -2,7 +2,7 @@
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
 </h1>
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=zend)](https://arnau-mas.github.io/) 
+<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=zend)](https://arnau-mas.github.io/) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnaum)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:arnau.mava@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/arnau_mas)](https://www.hackerrank.com/arnau_mas)
