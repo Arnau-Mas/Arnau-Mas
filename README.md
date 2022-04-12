@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:arnau.mava@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/arnau_mas)](https://www.hackerrank.com/arnau_mas)
  
-I'm a **Junior Web developer** and I love programming!😃 I'm a **Tech Enthusiast**💻 passionate about learning and working with new tech. I like technology, videogames, animals, nature, sports and One Piece👒. <br/><br/>
+I'm a **Junior Web developer** and I love programming!😃 I'm a **Tech Enthusiast**💻 passionate about learning and working with new tech. I also like videogames, animals, nature, sports and One Piece👒. <br/><br/>
 
 
 ## 🗂️ Highlighted Projects
