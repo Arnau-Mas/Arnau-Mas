@@ -55,13 +55,13 @@ I'm a **Junior Web developer** and I love programming!😃 I'm a **Tech Enthusia
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/  title="JavaScript"> </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="40" height="40"/ title="Vue.js"></a>&nbsp;
 <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/ title="Pinia"></a>&nbsp;
-<a href="https://vitejs.dev/guide/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Pinia" width="40" height="40"/ title="Vitejs"></a>&nbsp;
   <a href="https://nodejs.org/en/about/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/ title="Node.js"> </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs" target="_blank"><img alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express.js"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/  title="mongoDB"></a>
-  <a href="https://ejs.co/"><img alt="EJS" src="https://img.shields.io/badge/EJS%20-B4CA65.svg" title="EJS" height="35"></a>&nbsp;
-<a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" height="35"></a>&nbsp;
+   <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" height="35"></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/ title="Bootstrap"></a>&nbsp;
+   <a href="https://vitejs.dev/guide/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Pinia" width="40" height="40"/ title="Vitejs"></a>&nbsp;
+  <a href="https://ejs.co/"><img alt="EJS" src="https://img.shields.io/badge/EJS%20-B4CA65.svg" title="EJS" height="35"></a>&nbsp;
   <a href="https://docs.npmjs.com/about-npm" target="_blank"><img alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" title="npm"></a>&nbsp;
   <a href="https://git-scm.com/"><img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" height="35"></a>&nbsp;
     <a href="https://github.com/Arnau-Mas/"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"height="35" title="Visual Studio Code"></a>&nbsp;
